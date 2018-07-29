@@ -1,0 +1,25 @@
+
+.bg{
+	background: url('images/bg.jpg');
+	width: 100%;
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.form-container{
+
+	border:0px solid #fff;
+	padding: 50px 60px;
+	margin-top: 5vh;
+	-webkit-box-shadow: 1px 1px 38px 1px rgba(0,0,0,0.75);
+-moz-box-shadow: 1px 1px 38px 1px rgba(0,0,0,0.75);
+box-shadow: 1px 1px 38px 1px rgba(0,0,0,0.75);
+}
+
+
+label {
+    color: #fff;
+
+}
